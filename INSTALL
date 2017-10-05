@@ -1,0 +1,9 @@
+Building REBOGROUP
+
+See doc/readme-qt.rst for instructions on building REBOGROUP QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of REBOGROUP.
+
+See doc/build-*.txt for instructions on building rebogroupd,
+the intended-for-services, no-graphical-interface, reference
+implementation of REBOGROUP.
